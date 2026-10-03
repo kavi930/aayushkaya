@@ -1,0 +1,16 @@
+{
+  "short_name": "AyushKaya",
+  "name": "AyushKaya | Traditional Ayurvedic Therapies & Panchakarma",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#183627",
+  "theme_color": "#183627",
+  "display": "standalone",
+  "orientation": "portrait"
+}

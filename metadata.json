@@ -1,0 +1,6 @@
+{
+  "name": "AyushKaya - Traditional Ayurvedic Therapies & Panchakarma",
+  "description": "Authentic Ayurvedic Therapies, Panchakarma, and Home Therapy in Roorkee & nearby areas by A.K. Goswami.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
